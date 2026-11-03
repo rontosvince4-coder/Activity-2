@@ -65,7 +65,7 @@ let grades = [grade1, grade2, ...[85]];
 
 // 2 OBJECTS WITH SPREAD
 let student = {...{name: "Vince", age: 20}, course: "BSIT"};
-let schoolInfo = {...{name: "ABC University"}, city: "Cebu"};
+let schoolInfo = {...{name: "Northwest Samar State University"}, city: "Cebu"};
 
 // 2 MAP
 let doubled = [1, 2, 3].map(x => x * 2);
