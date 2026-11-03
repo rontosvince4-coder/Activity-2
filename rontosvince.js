@@ -3,7 +3,7 @@
 // 10 LET VARIABLES
 let studentName = "Vince P. Rontos";
 let age = 21;
-let course = "BSIT";
+let department = "CCIS";
 let yearLevel = 3;
 let section = "3C";
 let IT3O3 = 75;
@@ -21,7 +21,7 @@ const subject2 = "IT 303";
 const subject3 = "IT 300";
 const semester = "1st Semester";
 const room = "IT-203";
-const department = "IT";
+const Department = "CCIS";
 const schoolYear = "2026-2027";
 
 // TEMPLATE LITERALS
