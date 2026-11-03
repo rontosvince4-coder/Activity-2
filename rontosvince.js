@@ -77,7 +77,7 @@ let highGrades = [80, 85, 90, 95].filter(x => x >= 90);
 
 // 2 OPTIONAL CHAINING
 let email = {contact: {email: "rontosvince4"}}?.contact?.email;
-let phone = {contact: {phone: "09123456789"}}?.contact?.phone;
+let phone = {contact: {phone: "09388395085"}}?.contact?.phone;
 
 // OUTPUT
 console.log(`Hello: ${greet()}`);
