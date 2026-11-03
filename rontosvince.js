@@ -55,7 +55,7 @@ let {teacherName, teacherSubject} = {
     teacherSubject: "Mobile Programming"
 };
 let {schoolName, schoolCity} = {
-    schoolName: "ABC University",
+    schoolName: "Northwest Samar State University",
     schoolCity: "Cebu"
 };
 
