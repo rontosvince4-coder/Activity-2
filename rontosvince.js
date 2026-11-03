@@ -22,7 +22,7 @@ const subject3 = "IT 300";
 const semester = "2nd Semester";
 const room = "IT-203";
 const Department = "CCIS";
-const schoolYear = "2026-2027";
+const schoolYear = "2027-2028";
 
 // TEMPLATE LITERALS
 console.log(`Name: ${studentName}`);
