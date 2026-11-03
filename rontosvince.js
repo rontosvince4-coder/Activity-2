@@ -46,7 +46,7 @@ const courseName = () => `${course} Student`;
 // 3 DESTRUCTURED ARRAYS
 let [sub1, sub2] = ["IT300", "IT302"];
 let [grade1, grade2] = [88, 90];
-let [hobby1, hobby2] = ["BADMINTON", "MUSIC"];
+let [hobby1, hobby2] = ["BADMINTON", "BASKETBALL"];
 
 // 3 DESTRUCTURED OBJECTS
 let {name, studentAge} = {name: "Vince", studentAge: 20};
