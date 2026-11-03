@@ -76,7 +76,7 @@ let passingGrades = [60, 75, 80, 90].filter(x => x >= 75);
 let highGrades = [80, 85, 90, 95].filter(x => x >= 90);
 
 // 2 OPTIONAL CHAINING
-let email = {contact: {email: "vince@gmail.com"}}?.contact?.email;
+let email = {contact: {email: "rontosvince4"}}?.contact?.email;
 let phone = {contact: {phone: "09123456789"}}?.contact?.phone;
 
 // OUTPUT
