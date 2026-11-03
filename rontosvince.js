@@ -7,8 +7,8 @@ let course = "BSIT";
 let yearLevel = 3;
 let section = "3C";
 let IT3O3 = 75;
-let IT300  = 70;
-let IT302 = 80;
+let IT300  = 90;
+let IT302 = 95;
 let city = "Calbayog, Cit ";
 let school = "Northwest Samar State University";
 
