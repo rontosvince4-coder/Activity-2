@@ -8,7 +8,7 @@ let yearLevel = 3;
 let section = "3C";
 let IT3O3 = 75;
 let IT300  = 70;
-let english = 80;
+let IT302 = 80;
 let city = "Cebu";
 let school = "ABC University";
 
