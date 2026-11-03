@@ -30,23 +30,23 @@ console.log(`Age: ${age}`);
 console.log(`Course: ${course}`);
 console.log(`Year: ${yearLevel}`);
 console.log(`Section: ${section}`);
-console.log(`Math: ${math}`);
-console.log(`Science: ${science}`);
-console.log(`English: ${english}`);
+console.log(`IT300: ${IT300}`);
+console.log(`IT303: ${IT3O3}`);
+console.log(`IT302: ${IT302}`);
 console.log(`City: ${city}`);
 console.log(`School: ${school}`);
 
 // 5 ARROW FUNCTIONS
 const greet = () => `Hello ${studentName}`;
-const average = () => (math + science + english) / 3;
+const average = () => (IT300 + IT3O3 + IT302) / 3;
 const checkGrade = grade => grade >= passing;
 const add = (a, b) => a + b;
 const courseName = () => `${course} Student`;
 
 // 3 DESTRUCTURED ARRAYS
-let [sub1, sub2] = ["Math", "Science"];
+let [sub1, sub2] = ["IT300", "IT302"];
 let [grade1, grade2] = [88, 90];
-let [hobby1, hobby2] = ["Basketball", "Gaming"];
+let [hobby1, hobby2] = ["BADMINTON", "MUSIC"];
 
 // 3 DESTRUCTURED OBJECTS
 let {name, studentAge} = {name: "Vince", studentAge: 20};
