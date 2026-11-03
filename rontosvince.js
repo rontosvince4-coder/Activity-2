@@ -37,7 +37,7 @@ console.log(`City: ${city}`);
 console.log(`School: ${school}`);
 
 // 5 ARROW FUNCTIONS
-const greet = () => `Hello ${studentName}`;
+const greet = () => `HIiiii! ${studentName}`;
 const average = () => (IT300 + IT3O3 + IT302) / 3;
 const checkGrade = grade => grade >= passing;
 const add = (a, b) => a + b;
