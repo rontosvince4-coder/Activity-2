@@ -60,7 +60,7 @@ let {schoolName, schoolCity} = {
 };
 
 // 2 ARRAYS WITH SPREAD
-let subjects = [sub1, sub2, ...["English"]];
+let subjects = [sub1, sub2, ...["IT302"]];
 let grades = [grade1, grade2, ...[85]];
 
 // 2 OBJECTS WITH SPREAD
