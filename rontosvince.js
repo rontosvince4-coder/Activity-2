@@ -52,7 +52,7 @@ let [hobby1, hobby2] = ["BADMINTON", "BASKETBALL"];
 let {name, studentAge} = {name: "Vince", studentAge: 20};
 let {teacherName, teacherSubject} = {
     teacherName: "Mr. Yuri Joseph A. Ortiz",
-    teacherSubject: "Programming"
+    teacherSubject: "Mobile Programming"
 };
 let {schoolName, schoolCity} = {
     schoolName: "Northwest Samar State University",
