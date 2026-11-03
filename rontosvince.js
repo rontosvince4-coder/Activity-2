@@ -1,7 +1,7 @@
 // Student Record System
 
 // 10 LET VARIABLES
-let studentName = "Lebron James";
+let studentName = "Vince P. Rontos";
 let age = 41;
 let course = "BSIT";
 let yearLevel = 3;
