@@ -51,8 +51,8 @@ let [hobby1, hobby2] = ["BADMINTON", "BASKETBALL"];
 // 3 DESTRUCTURED OBJECTS
 let {name, studentAge} = {name: "Vince", studentAge: 20};
 let {teacherName, teacherSubject} = {
-    teacherName: "Mr. Santos",
-    teacherSubject: "JavaScript"
+    teacherName: "Mr. Yuri Joseph A. Ortiz",
+    teacherSubject: "Mobile Programming"
 };
 let {schoolName, schoolCity} = {
     schoolName: "ABC University",
