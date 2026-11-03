@@ -9,7 +9,7 @@ let section = "3C";
 let IT3O3 = 75;
 let IT300  = 70;
 let IT302 = 80;
-let city = "Cebu";
+let city = "Calbayog, Cit ";
 let school = "ABC University";
 
 // 10 CONST VARIABLES
