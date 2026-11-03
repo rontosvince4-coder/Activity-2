@@ -10,7 +10,7 @@ let IT3O3 = 75;
 let IT300  = 70;
 let IT302 = 80;
 let city = "Calbayog, Cit ";
-let school = "ABC University";
+let school = "Northwest Samar State University";
 
 // 10 CONST VARIABLES
 const passing = 75;
