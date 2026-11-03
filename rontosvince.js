@@ -14,7 +14,7 @@ let school = "Northwest Samar State University";
 
 // 10 CONST VARIABLES
 const passing = 75;
-const studentID = "BSIT001";
+const studentID = " 08- 11 -2005";
 const teacher = "Mr. Santos";
 const subject1 = "IT 302";
 const subject2 = "IT 303";
