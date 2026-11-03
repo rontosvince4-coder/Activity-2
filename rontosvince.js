@@ -2,7 +2,7 @@
 
 // 10 LET VARIABLES
 let studentName = "Vince P. Rontos";
-let age = 41;
+let age = 21;
 let course = "BSIT";
 let yearLevel = 3;
 let section = "3B";
