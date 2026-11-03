@@ -9,7 +9,7 @@ let section = "3C";
 let IT3O3 = 75;
 let IT300  = 90;
 let IT302 = 95;
-let city = "Calbayog, Cit ";
+let city = "Calbayog, City ";
 let school = "Northwest Samar State University";
 
 // 10 CONST VARIABLES
@@ -56,7 +56,7 @@ let {teacherName, teacherSubject} = {
 };
 let {schoolName, schoolCity} = {
     schoolName: "Northwest Samar State University",
-    schoolCity: "Cebu"
+    schoolCity: "Calbayog, City"
 };
 
 // 2 ARRAYS WITH SPREAD
